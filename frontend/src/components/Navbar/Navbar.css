@@ -7,6 +7,7 @@
 
 .navbar .logo {
     width: 150px;
+    transform: scale(2.2);
 }
 
 .navbar-menu{
