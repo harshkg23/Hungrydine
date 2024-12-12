@@ -99,6 +99,33 @@
     border-radius: 4px;
 }
 
+.empty-cart{
+    text-align: center;
+    font-size: 20px;
+    color: #454545;
+    margin-top: 70px;
+    padding-bottom: 200px;
+}
+
+.empty-cart p{
+    margin-bottom: 15px;
+}
+
+.empty-cart button{
+    border: none;
+    padding: 10px 20px;
+    background-color: #ff8282;
+    color: #454545;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.empty-cart button:hover{
+    background-color: tomato;
+    color: white;
+    transition: 0.3s;
+}
+
 @media (max-width : 750px){
     .cart-buttom{
         flex-direction: column-reverse;
