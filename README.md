@@ -1,4 +1,4 @@
-# Food Delivery Application
+# Hungrydine
 
 A MERN stack-based web application for a seamless online food ordering experience. It features user authentication, cart management, order placement, real-time tracking, and secure payment integration via Stripe. Includes an admin panel for managing orders and statuses, all within a responsive design.
 
