@@ -12,8 +12,9 @@ function Orders({url}) {
     try {
       const response = await axios.get(url + "/api/order/list");
         if (response.data.success) {
-          setOrders(response.data.data);
-          console.log(response.data.data);
+          const sortedOrders = response.data.data.sort((a, b) => new Date(b.createdAt) - new Date(a.createdAt));
+          setOrders(sortedOrders);
+          console.log(sortedOrders);
         } else {
           toast.error(response.data.message);
         }
