@@ -28,7 +28,7 @@ function Footer() {
                 <h2>GET IN TOUCH</h2>
                 <ul>
                     <li>+1-212-456-7890</li>
-                    <li>contact@tomato.com</li>
+                    <li>support@hungrydine.com</li>
                 </ul>
             </div>
         </div>
