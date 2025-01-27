@@ -2,6 +2,8 @@
 
 HungryDine is a full-stack food delivery application that provides an intuitive platform for ordering food online, combining a powerful backend, dynamic frontend, and an efficient admin panel. The frontend is built with React, ensuring a responsive and user-friendly experience across all devices, allowing customers to browse the menu, add items to the cart, and place secure payments through Stripe. The backend, powered by Node.js and Express, efficiently handles user requests, manages orders, and communicates with a MongoDB database. JWT-based authentication ensures secure user logins, while the admin panel allows administrators to manage menu items, track orders, and monitor the system. With its seamless integration of frontend, backend, and payment processing, HungryDine offers a comprehensive and secure food delivery service.
 
+Project link - [HungryDine](https://hungrydine-frontend.onrender.com)
+
 ---
 
 ## **Table of Contents**
